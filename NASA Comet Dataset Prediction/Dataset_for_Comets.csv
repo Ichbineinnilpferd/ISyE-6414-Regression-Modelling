@@ -1,0 +1,14 @@
+Attribute,Data Type,Description
+Object,Plain Text,The designation or name of the comet.
+Epoch (TDB),Number,The epoch date for the orbital elements (Barycentric Dynamical Time).
+TP (TDB),Number,Time of perihelion passage (Barycentric Dynamical Time).
+e,Number,Eccentricity of the comet's orbit.
+i (deg),Number,"Inclination of the comet's orbit relative to the ecliptic plane, measured in degrees."
+w (deg),Number,"Argument of perihelion, measured in degrees."
+Node (deg),Number,"Longitude of the ascending node, measured in degrees."
+q (AU),Number,"Perihelion distance, the closest distance between the comet and the Sun, measured in astronomical units (AU)."
+Q (AU),Number,"Aphelion distance, the farthest distance between the comet and the Sun, measured in AU."
+P (yr),Number,"Orbital period, the time it takes for the comet to complete one orbit around the Sun, measured in years."
+MOID (AU),Number,"Minimum orbit intersection distance, the closest distance between the comet's orbit and Earth's orbit, measured in AU."
+ref,Plain Text,Reference for the source or method used to determine the orbital elements.
+Object_name,Plain Text,Alternative designation or name of the comet.
